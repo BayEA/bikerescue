@@ -13,12 +13,15 @@ body{font-family: 'Roboto', sans-serif;}
 
 html,
 body,
-header,
 .view {
     height: 100%;
 }
 
 
+header
+ {
+    height: auto;
+}
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 1.5rem;
     padding-left: .5rem;
@@ -32,7 +35,7 @@ header,
 
 
 .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
-                                min-height: 100vh;
+                                /*min-height: 100vh;*/
                                 background-size: cover;
                                 width: 100%;
                                 margin-bottom: 15px;
@@ -303,7 +306,7 @@ input[type="email"] {
     .social_banner_links{max-width: 12%;padding: 10px;}
 
     .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
-                                    min-height: 130vh;
+                                    /*min-height: 130vh;*/
                                     background-size: cover;
                                     width: 100%;
                                     margin-bottom: 100px;
@@ -325,7 +328,7 @@ input[type="email"] {
     .social_banner_links{max-width: 12%;padding: 10px;}
 
     .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
-                                    min-height: 80vh;
+                                    /*min-height: 80vh;*/
                                     background-size: cover;
                                     width: 100%;
                                     margin-bottom: 100px;
@@ -402,7 +405,7 @@ input[type="email"] {
     .social_banner_links{max-width: 12%;padding: 10px;}
 
     .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
-                                    min-height: 110vh;
+                                    /*min-height: 114vh;*/
                                     background-size: cover;
                                     width: 100%;
                                     margin-bottom: 100px;
