@@ -1,0 +1,443 @@
+body{font-family: 'Roboto', sans-serif;}
+
+.navbar {
+    background-color: transparent;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+
+html,
+body,
+.view {
+    height: 100%;
+}
+
+
+header
+ {
+    height: auto;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: .5rem;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color:#fff;
+    font-weight:400;
+}
+
+
+.background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
+                                /*min-height: 100vh;*/
+                                background-size: cover;
+                                width: 100%;
+                                margin-bottom: 15px;
+                                background-position: center;}
+
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color:none; 
+    border:0;
+}
+
+button:focus {
+    outline:0px!important;
+    outline:0px!important;
+}
+
+
+#mc_embed_signup {
+    background: none !important;
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
+    width: 50%;
+} 
+
+
+
+
+.donate_button{background: rgba(251,124,94,1);padding: 10px 35px 10px 35px;
+               color: #fff;position: relative;top: 8px;}
+
+.donate_button:hover{background: rgba(238,99,71,1);padding: 10px 35px 10px 35px;
+                     color: #fff;position: relative;top: 8px;text-decoration: none;}
+
+
+
+
+.banner_detail_row{text-align: center;color: #fff;}
+
+.title_banner{padding-top: 80px;font-size: 48px;font-weight: 300;}
+
+.title_banner_p{padding-top: 20px;font-size:17px;font-weight:500;}
+
+.banner_bottom_link{font-size:21px;font-weight:500;color: #fff;border-bottom: 2px solid #0000ff;}
+.banner_below_bottom_link{font-size:21px;font-weight:500;color:rgb(41, 189, 255);text-decoration: underline;}
+
+.banner_bottom_link:hover{font-size:21px;font-weight:500;color: #fff;opacity: 0.9;text-decoration: none;}
+
+.banner_below_bottom_link:hover{font-size:21px;font-weight:500;color:rgb(41, 189, 255);text-decoration: underline;
+                                opacity: 0.8;}
+
+.banner_bottom_link_div{padding-top: 10px;}
+
+.social_banner_links{max-width: 5%;padding: 10px;}
+
+
+.social_link_hover:hover{opacity: 0.9;}
+
+
+.header_below_row{margin-top: 10px;text-align: center;margin-bottom: 75px;}
+
+
+.header_below_link{padding-top: 10px;}
+.header_below_link_mob{padding-top: 5px;}
+
+
+.detail_bottom_p_banner{padding-top: 22px;}
+
+
+
+.banner_below_bottom_link_call{font-size:21px;
+                               font-weight:500;color:rgba(251,124,94,1);}
+
+
+.banner_below_bottom_link_call:hover{font-size:21px;text-decoration: none;
+                                     font-weight:500;color:rgba(238,99,71,1);text-decoration:none;}
+
+
+
+
+.video_and_thumbnails_section{background: rgba(244,244,244,1);padding-top: 70px;padding-bottom: 50px;}
+
+
+.video_top_heading{text-align: center;font-weight: 200;font-size: 30px;}
+
+
+
+.video_top_p{font-size: 26px;text-align: center;font-weight: 300;padding-top: 15px;}
+
+
+
+.video_row{margin-top: 20px;}
+.thumbnail_row{margin-top: 20px;}
+
+
+.thumbnail_col{padding: 40px;}
+
+.thumbnail_box{background:rgba(244,244,244,1);height: 446px;
+               padding: 10px;text-align: center;
+               box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3);   
+}
+
+.thumbnail_image{text-align: center;}
+
+
+.thumbnail_box_headings{text-align: center;font-size: 17px;font-weight: 300;padding-top: 30px;}
+.thumbnail_box_detail_p{text-align: center;font-size:18px;font-weight: 300;padding-top: 5px;}
+
+
+.details_box{padding-left: 10px;padding-right: 10px}
+
+
+
+.button_thumbnail_div{padding-top: 15px;}
+
+
+.thumbnail_box_buttons{padding: 10px 50px 10px 50px;border:2px solid rgba(251,124,94,1);
+                       color: rgba(251,124,94,1);}
+
+.thumbnail_box_buttons:hover{padding: 10px 50px 10px 50px;border:2px solid rgba(251,124,94,1);
+                             color: #fff;text-decoration: none;background-color:rgba(251,124,94,1); }
+
+.about_us_section{padding-top: 60px;padding-bottom:30px;}
+
+.about_us_section_detail_row{padding-top: 35px;}
+
+.title_about_detail{font-weight: 300;font-size: 28px;}
+.detailss{font-weight: 300;font-size: 17px;}
+
+.detail_about_col{padding: 40px;}
+
+
+.subscribe_secion{background: rgba(244,244,244,1);padding-top: 70px;padding-bottom: 70px;}
+
+
+
+.subscribe_secion_box{background: rgba(255,255,255,1);
+                      height: 325px;
+                      text-align: center;
+                      border-radius: 10px;
+                      box-shadow: 0 30px 60px -12px rgba(50,50,93,.25), 0 18px 36px -18px rgba(0,0,0,.3);
+                      position: relative;
+}
+
+
+input[type="email"] {
+    padding: 4px 2px;
+}
+
+
+.form_div{text-align: center!important;padding: 5px;}
+.subscribe_secion_content_style{padding-top: 100px;text-align: center;}
+
+.subscribe_secion_heading{text-align:center;font-weight: 500;font-size: 25px;}
+
+.rocketicon_style{position: absolute;top: 2px;left: 2px;}
+.emailicon_style{position: absolute;bottom: 4px;right: 2px;}
+
+
+.submit_button{padding: 5px 18px 5px 18px;border:1px solid rgba(251,124,94,1);
+               color: #fff;background-color: rgba(251,124,94,1);position: relative;top: 12px;}
+
+
+.submit_button:hover{padding: 5px 18px 5px 18px;border:1px solid rgba(238,99,71,1);
+                     color: #fff;background-color: rgba(238,99,71,1);position: relative;top: 12px;}
+
+
+.partners_rows{padding-top: 40px;text-align: center;padding-bottom: 60px;}
+
+
+.special_logo_two{position: relative;top: 40px;}
+
+.special_logo_four{position: relative;top: 20px;}
+
+
+.six_logo_special{position: relative;top: 30px;}
+
+
+.help_p_one{font-weight: 300;font-size: 17px;padding-top:15px;}
+.contact_detail_list{font-weight: 500;font-size: 20px;padding-top:80px;color: #fff;}
+
+.help_section_start{background: rgba(244,244,244,1);padding-top: 70px;padding-bottom: 50px;}
+
+
+.bullet_custom{background-color:#626262;border-radius: 7px;
+               height: 14px;display: inline-block;margin-right: 8px;
+               width: 14px;}
+
+
+
+.parallax {
+    /* The image used */
+    background-image: url("../images/contact_bg.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+    margin-bottom: 50px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.contact_one_row{padding-top: 30px;}
+
+
+
+.call_mail{padding-top: 20px;}
+
+
+.padding_Call{color: #fff;padding-bottom: 8px;}
+
+.contact_linkss{color: #fff;
+                font-weight: 400;font-size: 20px;
+}
+
+
+
+.contact_linkss:hover{color: #fff;
+                      font-weight: 400;font-size: 20px;
+                      opacity: 0.8;text-decoration: none;
+}
+
+
+.footer_section_start{padding-top: 20px;padding-bottom: 40px;}
+
+/*.border_style_footer{border-bottom: 2px solid rgba(251,101,66,1);}*/
+
+
+.inner_row_foot{padding-bottom:25px;}
+
+
+.special_footer_col{position: relative;right: 12px;}
+
+
+.contact_col_heading{font-size: 19px;font-weight: 500;}
+
+.footer_links_color{color: #000000;font-size: 16px;}
+.footer_links_color:hover{color: #000000;text-decoration: none;opacity: 0.8;font-size: 16px;}
+
+.social_footer_row{padding-top: 15px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*RESPONSIOVENESS*/
+@media screen and (max-width: 775px) and (min-width:375px) {
+
+
+
+    .title_banner{padding-top: 50px;font-size: 48px;font-weight: 300;}
+
+    .social_banner_links{max-width: 12%;padding: 10px;}
+
+    .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
+                                    /*min-height: 130vh;*/
+                                    background-size: cover;
+                                    width: 100%;
+                                    margin-bottom: 100px;
+                                    background-position: center;}
+
+
+}/*CLOSE*/
+/********/
+
+
+
+
+
+/*RESPONSIOVENESS*/
+@media screen and (max-width: 411px) and (min-width:375px) {
+
+
+
+    .social_banner_links{max-width: 12%;padding: 10px;}
+
+    .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
+                                    /*min-height: 80vh;*/
+                                    background-size: cover;
+                                    width: 100%;
+                                    margin-bottom: 100px;
+                                    background-position: center;}
+
+
+
+    .title_banner{padding-top: 50px;font-size: 48px;font-weight: 300;}
+
+
+}/*CLOSE*/
+/********/
+
+
+
+
+
+
+
+
+
+
+
+
+/*IPHONE X MOBILE RESPONSIVENESS*/
+@media (max-width:775px) {
+    #mc_embed_signup {
+        background: none !important;
+        clear: left;
+        font: 14px Helvetica,Arial,sans-serif;
+        width: 100%;
+    } 
+    .col_mob{margin-top: 30px;}
+
+
+    .special_footer_col{position: relative;right: 0px;margin-top: 30px;}
+
+    .six_logo_special{position: relative;top: 0px;}
+
+    .special_logo_two{position: relative;top:0px;}
+
+
+
+
+}/*CLOSE*/
+/********/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*IPHONE X MOBILE RESPONSIVENESS*/
+@media (max-width:375px) {
+
+
+    .contact_linkss{color: #fff;
+                    font-weight: 500;font-size:15px;
+    }
+
+    .subscribe_secion_heading{text-align:center;font-weight: 500;font-size:18px;}
+    .title_banner{padding-top: 50px;font-size: 48px;font-weight: 300;}
+
+    .social_banner_links{max-width: 12%;padding: 10px;}
+
+    .background_image_enternity_two{background-image: url(../images/header_bg_image.jpg);
+                                    /*min-height: 114vh;*/
+                                    background-size: cover;
+                                    width: 100%;
+                                    margin-bottom: 100px;
+                                    background-position: center;}
+
+
+}/*CLOSE*/
+/********/
+.margin-btm{
+    margin-bottom: 15px;
+}
+#mc-embedded-subscribe {
+    float: right;
+    top: -43px;
+    position: relative;
+}  
+.email {
+    margin-top: 8px !important;
+}  
+#mc_embed_signup label {
+    display: block;
+    font-size: 21px !important;
+    padding-bottom: 10px;
+    font-weight: bold;
+}  
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 20px 12px;
+}  
+
+.button {
+    background-color: #FB7C5E !important;
+}
