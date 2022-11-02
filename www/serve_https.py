@@ -7,7 +7,7 @@ import ssl
 def parse_request(request):
 
     print(request.path)
-    directory = "/home/ubuntu/bikerescue"
+    directory = "/home/ubuntu/bikerescue/www"
 
     # remove query params from request.path
     path = request.path.split("?")[0]

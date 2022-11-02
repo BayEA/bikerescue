@@ -7,7 +7,7 @@ import ssl
 def get_file(request):
     # note that this potentially makes every file on your computer readable by the internet
     print(request.path)
-    directory = "/home/ubuntu/bikerescue"
+    directory = "/home/ubuntu/bikerescue/www"
     # try keep requested limited to directory
     path = request.path.split("?")[0]
     if path == '/':
